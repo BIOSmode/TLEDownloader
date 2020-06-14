@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Cpomplie: Qt Creator 4.11.0  + Visual Statio 2015
+Cpomplie: Qt Creator 4.11.0  + Visual Statio 2015</r>
 environment: QT 5.9.9 + Qt 5.9.9 (MSVC 2015 64-bit)
 
 Download the TLE data of iridium / iridium next constellation (replaceable) from the website to realize the interface display based on QT.
