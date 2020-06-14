@@ -32,10 +32,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Cpomplie: Qt Creator 4.11.0  + Visual Statio 2015</r>
+Cpomplie: Qt Creator 4.11.0  + Visual Statio 2015  
 environment: QT 5.9.9 + Qt 5.9.9 (MSVC 2015 64-bit)
 
-Download the TLE data of iridium / iridium next constellation (replaceable) from the website to realize the interface display based on QT.
+Download the TLE data of iridium / iridium next constellation (replaceable) from the website to realize the interface display based on QT.  
 You can acquire almost all TLE data of satellites by changing the Url in widget.cpp.
 as:
 ![example](https://github.com/BIOSmode/TLEDownloader/blob/master/exampleimage/2020-06-14%20(3).png)
@@ -71,9 +71,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-Mozilla Public License 2.0
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Mozilla Public License 2.0. See `LICENSE` for more information.
 
 
 
